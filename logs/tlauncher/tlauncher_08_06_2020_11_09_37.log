@@ -1,0 +1,87 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.72 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 06.08.2020 11:09:39
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_261, jvm bit x64, 16304 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+ Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12173 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=8b24b6da-4f3a-401e-85a6-948edfe15dce
+[Updater] Request time: 68 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 24 / 195 MB
+Garbage collector completed: -29 / 244 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\ivan_\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\ivan_\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 16 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@1205266579] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+Started! (5455 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 50 ms.
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 23 ms.
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 26 ms.
+[SkinVersionList] Got in 59 ms
+[ExtraVersionList] Got in 114 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 272 ms.
+[OfficialVersionList] Got in 398 ms
+[VersionManager] Versions has been refreshed (489 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 16 ms.
+run server on  37842
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 54 ms.
+Starting garbage collector: 47 / 298 MB
+Garbage collector completed: 37 / 295 MB
+don't find category skyblock
+Starting garbage collector: 322 / 493 MB
+Garbage collector completed: 129 / 491 MB
+don't find category skyblock
+don't find category skyblock
+don't find category skyblock
+don't find category skyblock
+Good bye!
+[TLauncherManager] before clearLibrary C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Machines-61.0.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Huds-1.12.2-1.0.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.291.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\VanillaFix-1.0.10-150.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.19.0_Forge_1.12.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Machines-61.0.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Huds-1.12.2-1.0.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.291.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\VanillaFix-1.0.10-150.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.19.0_Forge_1.12.jar
+flush now

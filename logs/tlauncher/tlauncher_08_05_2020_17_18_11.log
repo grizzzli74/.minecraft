@@ -1,0 +1,405 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.72 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 05.08.2020 17:18:12
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_51, jvm bit x64, 16304 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=8b24b6da-4f3a-401e-85a6-948edfe15dce
+[Updater] Request time: 142 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Cleaning up after loading:
+Starting garbage collector: 75 / 193 MB
+Garbage collector completed: 16 / 193 MB
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\ivan_\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\ivan_\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Browser] Initializing...
+[Loading] PREPARING_MAINPANE
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 171 ms.
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@2019049615] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+Started! (3865 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 54 ms.
+[Double running] clear time label
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 26 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 16 ms.
+[SkinVersionList] Got in 55 ms
+[ExtraVersionList] Got in 99 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 279 ms.
+[OfficialVersionList] Got in 401 ms
+[VersionManager] Versions has been refreshed (407 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 64 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 102 ms.
+[OS] Trying to open folder: C:\Users\ivan_\AppData\Roaming\.minecraft\
+[LocalVersionList] Base directory: E:\Downloads\.minecraft
+[VersionManager] Refreshing versions remotely...
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[ProfileManager] Refreshing profiles from: E:\Downloads\.minecraft\TlauncherProfiles.json
+!!!the same id was found: gtaplay.su
+!!!the same id was found: mc.hardrise.net
+!!!the same id was found: play.peercloud.ru
+!!!the same id was found: mc.obsidiancraft.ru
+!!!the same id was found: mc.mc-hypecraft.ru
+!!!the same id was found: Gw-Play.ru
+!!!the same id was found: mc.xaskimine.ru
+!!!the same id was found: mc.rageplay.ru
+!!!the same id was found: mc.CookieLand.ru
+!!!the same id was found: FPlay.su
+!!!the same id was found: loftyland.ru
+!!!the same id was found: Grief-Play.ru
+!!!the same id was found: play.mcsnapix.ru
+!!!the same id was found: mwplay.su
+!!!the same id was found: mc.sanworld.su
+!!!the same id was found: play.rustme.ru
+!!!the same id was found: 212.22.93.5
+!!!the same id was found: mc.MonoCraft.ru
+!!!the same id was found: play.tofficraft.ru
+!!!the same id was found: fusion-games.ru
+!!!the same id was found: play.cubea.ru
+!!!the same id was found: play.divinecraft.ru
+!!!the same id was found: mc.mysterypvp.ru
+!!!the same id was found: mc.griefstation.ru
+!!!the same id was found: fc.rdf.ru
+!!!the same id was found: mc.dancetime.xyz
+!!!the same id was found: polkacraft.ml
+!!!the same id was found: nexteruniverse.net
+!!!the same id was found: mc.waycraft.net
+!!!the same id was found: flex-world.ru
+!!!the same id was found: sabercraft.su
+!!!the same id was found: mc.griefcube.ru
+!!!the same id was found: ccplay.su
+!!!the same id was found: 95.217.73.212
+!!!the same id was found: mc.pixelite.ru
+!!!the same id was found: mc.craftyou.su
+!!!the same id was found: play.joxland.ru
+!!!the same id was found: 94.130.137.49
+!!!the same id was found: topbars
+!!!the same id was found: mc.tntland.ru
+!!!the same id was found: minepc.ru
+!!!the same id was found: 2mine.ru
+!!!the same id was found: coalition.store
+!!!the same id was found: juicyplay.ru
+!!!the same id was found: mc.MineCrab.ru
+!!!the same id was found: play.spicemc.ru
+!!!the same id was found: mc.minerise.fun
+!!!the same id was found: flexmine.ru
+!!!the same id was found: BrawlWorld.ru
+!!!the same id was found: hydramc.su
+!!!the same id was found: mc.skylix.ru
+!!!the same id was found: mc.MineWood.su
+!!!the same id was found: play.mcberry.su
+!!!the same id was found: mc.DeaServ.ru
+!!!the same id was found: mc.tmine.ru
+!!!the same id was found: play.BrameWorld.xyz
+!!!the same id was found: go.MineTrust.ru
+!!!the same id was found: Grief.MineTrust.ru
+!!!the same id was found: 5.135.38.180
+!!!the same id was found: vanilla.ancientland.ru
+!!!the same id was found: mc.vodka-craft.ru
+!!!the same id was found: mc.save-craft.ru
+!!!the same id was found: mc.mac-craft.ru
+!!!the same id was found: mc.dude-craft.ru
+!!!the same id was found: yelycraft.ml
+!!!the same id was found: mc.CoteGrief.ru
+!!!the same id was found: play.mk2k.fun
+!!!the same id was found: mc.blazepex.ru
+!!!the same id was found: mc.MineLord.ru
+!!!the same id was found: JustProject.ru
+!!!the same id was found: topworld.fun
+!!!the same id was found: mc.CrazyWood.su
+!!!the same id was found: mc.luckydayz.ru
+!!!the same id was found: topmine
+!!!the same id was found: sunnymc
+!!!the same id was found: starsmc.ru
+!!!the same id was found: play.elitemc.ru
+!!!the same id was found: DellyWorld.ru
+!!!the same id was found: mc.sonic-craft.ru
+!!!the same id was found: mc.bramecraft.xyz
+!!!the same id was found: venmc.ru
+!!!the same id was found: play.CuteMC.ru
+!!!the same id was found: mc.neoncraft.ru
+!!!the same id was found: GoGrief.ru
+!!!the same id was found: play.blackrise.ru
+!!!the same id was found: mc.SpeedMC.ru
+!!!the same id was found: mc.SunMine.su
+!!!the same id was found: mc.MineDays.ru
+!!!the same id was found: mc.GrandMC.ru
+!!!the same id was found: mc.nekocraft.ru
+!!!the same id was found: LionMC.ru
+!!!the same id was found: mc.lynxmc.ru
+!!!the same id was found: mc.poolcraft.ru
+!!!the same id was found: BrawlCrafts.ru
+!!!the same id was found: mc.mineshare.online
+!!!the same id was found: raid-craft.su
+!!!the same id was found: Livexmc.ru
+!!!the same id was found: flycore.ru
+!!!the same id was found: mc.TimeFlex.ru
+!!!the same id was found: mc.fourcraft.ru
+!!!the same id was found: mc.BearMC.ru
+!!!the same id was found: javamine.ru
+!!!the same id was found: mc.JustLand.ru
+!!!the same id was found: mc.realycheat.ru
+!!!the same id was found: Diamine.net
+!!!the same id was found: mc.royalgg.ru
+!!!the same id was found: mc.CuteMine.ru
+!!!the same id was found: Mcplex.ru
+!!!the same id was found: mc.skyblaze.ru
+!!!the same id was found: skyblaze.ru
+!!!the same id was found: mc.av-me.ru
+!!!the same id was found: play.rokermine.ru
+!!!the same id was found: midexgo.ru
+!!!the same id was found: mc.upmine.su
+!!!the same id was found: stopcraft.ru
+!!!the same id was found: play.blurmc.ru
+!!!the same id was found: mc.exodon.ru
+!!!the same id was found: mc.smine.su
+!!!the same id was found: smine.su
+!!!the same id was found: mc.foxlime.ru
+!!!the same id was found: cherrycraft.ru
+!!!the same id was found: go.BanPlay.ru
+!!!the same id was found: barsmc.ru
+!!!the same id was found: mc.joxland.ru
+!!!the same id was found: hypixel.ru
+!!!the same id was found: mc.bullcraft.ru
+!!!the same id was found: MagicMC.su
+!!!the same id was found: mc.forscraft.net
+!!!the same id was found: play.proempire.ru
+!!!the same id was found: mc.megacraft.org
+!!!the same id was found: play.mc-rust.ru
+!!!the same id was found: mc.rubycraft.ru
+!!!the same id was found: play.poohcraft.ru
+!!!the same id was found: mc-magicstore.ru
+!!!the same id was found: tlf10.teslacraft.org
+!!!the same id was found: mc.minesand.su
+!!!the same id was found: mc.mineberry.net
+!!!the same id was found: brawlmc.ru
+!!!the same id was found: mc.egserv.ru
+!!!the same id was found: ch-serv.ru
+!!!the same id was found: unixgo.ru
+!!!the same id was found: DexCraft.ru
+!!!the same id was found: OpDex.ru
+!!!the same id was found: mc.monidays.ru
+!!!the same id was found: migosmc.ru
+!!!the same id was found: mc.likecraft.ru
+!!!the same id was found: mc.BadMC.ru
+!!!the same id was found: mc.MagmaDex.ru
+!!!the same id was found: mc.selectmc.ru
+!!!the same id was found: 5.135.245.43
+!!!the same id was found: mc.minerain.ru
+!!!the same id was found: mc.mdizel.ru
+!!!the same id was found: play.Wildmc.ru
+!!!the same id was found: mc.SpaceLand.su
+!!!the same id was found: mcfunny.su
+!!!the same id was found: lordmine.ru
+!!!the same id was found: godmine.ru
+!!!the same id was found: mc.kobragames.ru
+!!!the same id was found: sweetyland.ru
+!!!the same id was found: mc.griefland.ru
+!!!the same id was found: mc.TimeDex.ru
+!!!the same id was found: mc.heworld.ru
+!!!the same id was found: frinkeycraft.ru
+!!!the same id was found: mc.minelime.ru
+!!!the same id was found: play.castillemine.ru
+!!!the same id was found: mc.prouniversalmine.ru
+!!!the same id was found: gta7rp.ru
+!!!the same id was found: mc.pxgame.ru
+!!!the same id was found: mc.Delerix.ru
+!!!the same id was found: mwmc.ru
+!!!the same id was found: elexplay.ru
+!!!the same id was found: mc.mineside.ru
+!!!the same id was found: onlyluxury.ru
+!!!the same id was found: play.fleexmine.ru
+!!!the same id was found: mc.skypvp.ru
+!!!the same id was found: Flux-MC.ru
+!!!the same id was found: mc.worldcraft.pw
+!!!the same id was found: mc.riseworld.su
+!!!the same id was found: mc.playmine.ru
+!!!the same id was found: nexus1.su
+!!!the same id was found: applemc.ru
+!!!the same id was found: mc.klever-craft.su
+!!!the same id was found: 51.255.0.104
+!!!the same id was found: mc.supergrief.ru
+!!!the same id was found: supermc.su
+!!!the same id was found: mc.bigserv.site
+!!!the same id was found: 212.22.93.25
+!!!the same id was found: 188.165.29.191
+!!!the same id was found: mc.LattyCraft.ru
+!!!the same id was found: fermcraft.ru
+!!!the same id was found: 212.22.93.71
+!!!the same id was found: wolf-game.ru
+!!!the same id was found: gtaplay.su
+!!!the same id was found: mc.hardrise.net
+!!!the same id was found: play.peercloud.ru
+!!!the same id was found: mc.obsidiancraft.ru
+!!!the same id was found: mc.mc-hypecraft.ru
+!!!the same id was found: Gw-Play.ru
+!!!the same id was found: mc.xaskimine.ru
+!!!the same id was found: mc.rageplay.ru
+!!!the same id was found: mc.CookieLand.ru
+!!!the same id was found: FPlay.su
+!!!the same id was found: loftyland.ru
+!!!the same id was found: Grief-Play.ru
+!!!the same id was found: play.mcsnapix.ru
+!!!the same id was found: mwplay.su
+!!!the same id was found: mc.sanworld.su
+!!!the same id was found: play.rustme.ru
+!!!the same id was found: 212.22.93.5
+!!!the same id was found: mc.MonoCraft.ru
+!!!the same id was found: play.tofficraft.ru
+!!!the same id was found: fusion-games.ru
+!!!the same id was found: play.cubea.ru
+!!!the same id was found: play.divinecraft.ru
+!!!the same id was found: mc.mysterypvp.ru
+!!!the same id was found: mc.griefstation.ru
+!!!the same id was found: fc.rdf.ru
+!!!the same id was found: mc.dancetime.xyz
+!!!the same id was found: polkacraft.ml
+!!!the same id was found: nexteruniverse.net
+!!!the same id was found: mc.waycraft.net
+!!!the same id was found: flex-world.ru
+!!!the same id was found: sabercraft.su
+!!!the same id was found: mc.griefcube.ru
+!!!the same id was found: ccplay.su
+!!!the same id was found: 95.217.73.212
+!!!the same id was found: mc.pixelite.ru
+!!!the same id was found: mc.craftyou.su
+!!!the same id was found: play.joxland.ru
+!!!the same id was found: 94.130.137.49
+!!!the same id was found: topbars
+!!!the same id was found: mc.tntland.ru
+!!!the same id was found: minepc.ru
+!!!the same id was found: 2mine.ru
+!!!the same id was found: coalition.store
+!!!the same id was found: juicyplay.ru
+!!!the same id was found: mc.MineCrab.ru
+!!!the same id was found: play.spicemc.ru
+!!!the same id was found: mc.minerise.fun
+!!!the same id was found: flexmine.ru
+!!!the same id was found: BrawlWorld.ru
+!!!the same id was found: hydramc.su
+!!!the same id was found: mc.skylix.ru
+!!!the same id was found: mc.MineWood.su
+!!!the same id was found: play.mcberry.su
+!!!the same id was found: mc.DeaServ.ru
+!!!the same id was found: mc.tmine.ru
+!!!the same id was found: play.BrameWorld.xyz
+!!!the same id was found: go.MineTrust.ru
+!!!the same id was found: Grief.MineTrust.ru
+!!!the same id was found: 5.135.38.180
+!!!the same id was found: vanilla.ancientland.ru
+!!!the same id was found: mc.vodka-craft.ru
+!!!the same id was found: mc.save-craft.ru
+!!!the same id was found: mc.mac-craft.ru
+!!!the same id was found: mc.dude-craft.ru
+!!!the same id was found: yelycraft.ml
+!!!the same id was found: mc.CoteGrief.ru
+!!!the same id was found: play.mk2k.fun
+!!!the same id was found: mc.blazepex.ru
+!!!the same id was found: mc.MineLord.ru
+!!!the same id was found: JustProject.ru
+!!!the same id was found: topworld.fun
+!!!the same id was found: mc.CrazyWood.su
+!!!the same id was found: mc.luckydayz.ru
+!!!the same id was found: topmine
+!!!the same id was found: sunnymc
+!!!the same id was found: starsmc.ru
+!!!the same id was found: play.elitemc.ru
+!!!the same id was found: DellyWorld.ru
+!!!the same id was found: mc.sonic-craft.ru
+!!!the same id was found: mc.bramecraft.xyz
+!!!the same id was found: venmc.ru
+!!!the same id was found: play.CuteMC.ru
+!!!the same id was found: mc.neoncraft.ru
+!!!the same id was found: GoGrief.ru
+!!!the same id was found: play.blackrise.ru
+!!!the same id was found: mc.SpeedMC.ru
+!!!the same id was found: mc.SunMine.su
+!!!the same id was found: mc.MineDays.ru
+!!!the same id was found: mc.GrandMC.ru
+!!!the same id was found: mc.nekocraft.ru
+!!!the same id was found: LionMC.ru
+!!!the same id was found: mc.lynxmc.ru
+!!!the same id was found: mc.poolcraft.ru
+!!!the same id was found: BrawlCrafts.ru
+!!!the same id was found: mc.mineshare.online
+!!!the same id was found: raid-craft.su
+!!!the same id was found: Livexmc.ru
+!!!the same id was found: flycore.ru
+!!!the same id was found: mc.TimeFlex.ru
+!!!the same id was found: mc.fourcraft.ru
+!!!the same id was found: mc.BearMC.ru
+!!!the same id was found: javamine.ru
+!!!the same id was found: mc.JustLand.ru
+!!!the same id was found: mc.realycheat.ru
+!!!the same id was found: Diamine.net
+!!!the same id was found: mc.royalgg.ru
+!!!the same id was found: mc.CuteMine.ru
+!!!the same id was found: Mcplex.ru
+!!!the same id was found: mc.skyblaze.ru
+!!!the same id was found: skyblaze.ru
+!!!the same id was found: mc.av-me.ru
+!!!the same id was found: ahorizon.ru
+!!!the same id was found: craft-craft.ru
+!!!the same id was found: mc.zipcraft.ru
+!!!the same id was found: play.pigmine.ru
+!!!the same id was found: mc.nexlon.ru
+!!!the same id was found: ds-server.ru
+!!!the same id was found: play.vextern.xyz
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 38 ms.
+[SkinVersionList] Got in 39 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 44 ms.
+[ExtraVersionList] Got in 49 ms
+[AdvertisingStatusObserver]  finished to get add information
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 361 ms.
+[OfficialVersionList] Got in 393 ms
+[VersionManager] Versions has been refreshed (433 ms)
+[OS] Trying to open folder: E:\Downloads\.minecraft\
+[OS] Trying to open folder: E:\Downloads\.minecraft\
+Good bye!
+[TLauncherManager] before clearLibrary E:\Downloads\.minecraft\mods\additionalpipes_1.12.2_6.0.0.8.jar E:\Downloads\.minecraft\mods\Advanced+Machines-61.0.1.jar E:\Downloads\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar E:\Downloads\.minecraft\mods\ae2stuff-0.7.0.4-mc1.12.2.jar E:\Downloads\.minecraft\mods\AmbientSounds_v3.0.9_mc1.12.2.jar E:\Downloads\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar E:\Downloads\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar E:\Downloads\.minecraft\mods\Baubles-1.12-1.5.2.jar E:\Downloads\.minecraft\mods\bdlib-1.14.3.12-mc1.12.2.jar E:\Downloads\.minecraft\mods\betteranimalsplus-1.12.2-9.0.1.jar E:\Downloads\.minecraft\mods\bettercaves-1.12.2-2.0.1.jar E:\Downloads\.minecraft\mods\BiblioCraft[v2.4.5][MC1.12.2].jar E:\Downloads\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar E:\Downloads\.minecraft\mods\Bookshelf-1.12.2-2.3.585.jar E:\Downloads\.minecraft\mods\Botania+r1.10-361.jar E:\Downloads\.minecraft\mods\BrandonsCore-1.12.2-2.4.18.210-universal.jar E:\Downloads\.minecraft\mods\buildcraft-all-7.99.24.6.jar E:\Downloads\.minecraft\mods\chiselsandbits-14.33.jar E:\Downloads\.minecraft\mods\ChunkAnimator-MC1.12-1.2.jar E:\Downloads\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar E:\Downloads\.minecraft\mods\CoFHCore-1.12.2-4.6.6.1-universal.jar E:\Downloads\.minecraft\mods\CoFHWorld-1.12.2-1.4.0.1-universal.jar E:\Downloads\.minecraft\mods\CraftTweaker2-1.12-4.1.20.572.jar E:\Downloads\.minecraft\mods\Draconic-Evolution-1.12.2-2.3.25.351-universal.jar E:\Downloads\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar E:\Downloads\.minecraft\mods\EnchantingPlus-1.12.2-5.0.176.jar E:\Downloads\.minecraft\mods\EnderCore-1.12.2-0.5.73.jar E:\Downloads\.minecraft\mods\EnderIO-1.12.2-5.1.55.jar E:\Downloads\.minecraft\mods\EpicSiegeMod-13.167.jar E:\Downloads\.minecraft\mods\ExtraBotany-r1.1-58r.jar E:\Downloads\.minecraft\mods\ExtraCells-1.12.2-2.6.5.jar E:\Downloads\.minecraft\mods\extrautils2-1.12-1.9.9.jar E:\Downloads\.minecraft\mods\Farseek-1.12-2.5.jar E:\Downloads\.minecraft\mods\FastLeafDecay-v14.jar E:\Downloads\.minecraft\mods\forestry_1.12.2-5.8.2.422.jar E:\Downloads\.minecraft\mods\Forgelin-1.8.4.jar E:\Downloads\.minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\GalacticraftCore-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\gendustry-1.6.5.8-mc1.12.2.jar E:\Downloads\.minecraft\mods\Gravitation+Suite-3.1.1.jar E:\Downloads\.minecraft\mods\Huds-1.12.2-1.0.6.jar E:\Downloads\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar E:\Downloads\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar E:\Downloads\.minecraft\mods\InventoryTweaks-1.63.jar E:\Downloads\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar E:\Downloads\.minecraft\mods\jeibees-0.9.0.5-mc1.12.2.jar E:\Downloads\.minecraft\mods\jei_1.12.2-4.15.0.291.jar E:\Downloads\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar E:\Downloads\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar E:\Downloads\.minecraft\mods\LibraryEx-1.12.2-1.1.2.jar E:\Downloads\.minecraft\mods\llibrary-1.7.19-1.12.2.jar E:\Downloads\.minecraft\mods\mcjtylib-1.12-3.5.4.jar E:\Downloads\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar E:\Downloads\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar E:\Downloads\.minecraft\mods\MicdoodleCore-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\MouseTweaks-2.10-mc1.12.2.jar E:\Downloads\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar E:\Downloads\.minecraft\mods\NetherEx-1.12.2-2.1.4.jar E:\Downloads\.minecraft\mods\NuclearCraft-2.18r-1.12.2.jar E:\Downloads\.minecraft\mods\OpenBlocks-1.12.2-1.8.1.jar E:\Downloads\.minecraft\mods\OpenModsLib-1.12.2-0.12.2.jar E:\Downloads\.minecraft\mods\OptiFine-1.12.2_HD_U_F4.jar E:\Downloads\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar E:\Downloads\.minecraft\mods\railcraft-12.0.0.jar E:\Downloads\.minecraft\mods\RedstoneFlux-1.12-2.1.1.1-universal.jar E:\Downloads\.minecraft\mods\rftools-1.12-7.73.jar E:\Downloads\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar E:\Downloads\.minecraft\mods\Thaumcraft-1.12.2-6.1.BETA26.jar E:\Downloads\.minecraft\mods\ThaumicJEI-1.12.2-1.6.0-27.jar E:\Downloads\.minecraft\mods\ThermalDynamics-1.12.2-2.5.6.1-universal.jar E:\Downloads\.minecraft\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar E:\Downloads\.minecraft\mods\ThermalFoundation-1.12.2-2.6.7.1-universal.jar E:\Downloads\.minecraft\mods\tlskincape_1.12.2-1.4.jar E:\Downloads\.minecraft\mods\twilightforest-1.12.2-3.10.1013-universal.jar E:\Downloads\.minecraft\mods\UniDict-1.12.2-2.9.6.jar E:\Downloads\.minecraft\mods\VanillaFix-1.0.10-150.jar E:\Downloads\.minecraft\mods\WanionLib-1.12.2-2.4.jar E:\Downloads\.minecraft\mods\Wawla-1.12.2-2.6.275.jar E:\Downloads\.minecraft\mods\Xaeros_Minimap_20.9.0_Forge_1.12.jar E:\Downloads\.minecraft\mods\xxlsolarpanels-1.2.1.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary E:\Downloads\.minecraft\mods\additionalpipes_1.12.2_6.0.0.8.jar E:\Downloads\.minecraft\mods\Advanced+Machines-61.0.1.jar E:\Downloads\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar E:\Downloads\.minecraft\mods\ae2stuff-0.7.0.4-mc1.12.2.jar E:\Downloads\.minecraft\mods\AmbientSounds_v3.0.9_mc1.12.2.jar E:\Downloads\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar E:\Downloads\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar E:\Downloads\.minecraft\mods\Baubles-1.12-1.5.2.jar E:\Downloads\.minecraft\mods\bdlib-1.14.3.12-mc1.12.2.jar E:\Downloads\.minecraft\mods\betteranimalsplus-1.12.2-9.0.1.jar E:\Downloads\.minecraft\mods\bettercaves-1.12.2-2.0.1.jar E:\Downloads\.minecraft\mods\BiblioCraft[v2.4.5][MC1.12.2].jar E:\Downloads\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar E:\Downloads\.minecraft\mods\Bookshelf-1.12.2-2.3.585.jar E:\Downloads\.minecraft\mods\Botania+r1.10-361.jar E:\Downloads\.minecraft\mods\BrandonsCore-1.12.2-2.4.18.210-universal.jar E:\Downloads\.minecraft\mods\buildcraft-all-7.99.24.6.jar E:\Downloads\.minecraft\mods\chiselsandbits-14.33.jar E:\Downloads\.minecraft\mods\ChunkAnimator-MC1.12-1.2.jar E:\Downloads\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar E:\Downloads\.minecraft\mods\CoFHCore-1.12.2-4.6.6.1-universal.jar E:\Downloads\.minecraft\mods\CoFHWorld-1.12.2-1.4.0.1-universal.jar E:\Downloads\.minecraft\mods\CraftTweaker2-1.12-4.1.20.572.jar E:\Downloads\.minecraft\mods\Draconic-Evolution-1.12.2-2.3.25.351-universal.jar E:\Downloads\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar E:\Downloads\.minecraft\mods\EnchantingPlus-1.12.2-5.0.176.jar E:\Downloads\.minecraft\mods\EnderCore-1.12.2-0.5.73.jar E:\Downloads\.minecraft\mods\EnderIO-1.12.2-5.1.55.jar E:\Downloads\.minecraft\mods\EpicSiegeMod-13.167.jar E:\Downloads\.minecraft\mods\ExtraBotany-r1.1-58r.jar E:\Downloads\.minecraft\mods\ExtraCells-1.12.2-2.6.5.jar E:\Downloads\.minecraft\mods\extrautils2-1.12-1.9.9.jar E:\Downloads\.minecraft\mods\Farseek-1.12-2.5.jar E:\Downloads\.minecraft\mods\FastLeafDecay-v14.jar E:\Downloads\.minecraft\mods\forestry_1.12.2-5.8.2.422.jar E:\Downloads\.minecraft\mods\Forgelin-1.8.4.jar E:\Downloads\.minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\GalacticraftCore-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\gendustry-1.6.5.8-mc1.12.2.jar E:\Downloads\.minecraft\mods\Gravitation+Suite-3.1.1.jar E:\Downloads\.minecraft\mods\Huds-1.12.2-1.0.6.jar E:\Downloads\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar E:\Downloads\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar E:\Downloads\.minecraft\mods\InventoryTweaks-1.63.jar E:\Downloads\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar E:\Downloads\.minecraft\mods\jeibees-0.9.0.5-mc1.12.2.jar E:\Downloads\.minecraft\mods\jei_1.12.2-4.15.0.291.jar E:\Downloads\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar E:\Downloads\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar E:\Downloads\.minecraft\mods\LibraryEx-1.12.2-1.1.2.jar E:\Downloads\.minecraft\mods\llibrary-1.7.19-1.12.2.jar E:\Downloads\.minecraft\mods\mcjtylib-1.12-3.5.4.jar E:\Downloads\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar E:\Downloads\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar E:\Downloads\.minecraft\mods\MicdoodleCore-1.12.2-4.0.2.272.jar E:\Downloads\.minecraft\mods\MouseTweaks-2.10-mc1.12.2.jar E:\Downloads\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar E:\Downloads\.minecraft\mods\NetherEx-1.12.2-2.1.4.jar E:\Downloads\.minecraft\mods\NuclearCraft-2.18r-1.12.2.jar E:\Downloads\.minecraft\mods\OpenBlocks-1.12.2-1.8.1.jar E:\Downloads\.minecraft\mods\OpenModsLib-1.12.2-0.12.2.jar E:\Downloads\.minecraft\mods\OptiFine-1.12.2_HD_U_F4.jar E:\Downloads\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar E:\Downloads\.minecraft\mods\railcraft-12.0.0.jar E:\Downloads\.minecraft\mods\RedstoneFlux-1.12-2.1.1.1-universal.jar E:\Downloads\.minecraft\mods\rftools-1.12-7.73.jar E:\Downloads\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar E:\Downloads\.minecraft\mods\Thaumcraft-1.12.2-6.1.BETA26.jar E:\Downloads\.minecraft\mods\ThaumicJEI-1.12.2-1.6.0-27.jar E:\Downloads\.minecraft\mods\ThermalDynamics-1.12.2-2.5.6.1-universal.jar E:\Downloads\.minecraft\mods\ThermalExpansion-1.12.2-5.5.7.1-universal.jar E:\Downloads\.minecraft\mods\ThermalFoundation-1.12.2-2.6.7.1-universal.jar E:\Downloads\.minecraft\mods\tlskincape_1.12.2-1.4.jar E:\Downloads\.minecraft\mods\twilightforest-1.12.2-3.10.1013-universal.jar E:\Downloads\.minecraft\mods\UniDict-1.12.2-2.9.6.jar E:\Downloads\.minecraft\mods\VanillaFix-1.0.10-150.jar E:\Downloads\.minecraft\mods\WanionLib-1.12.2-2.4.jar E:\Downloads\.minecraft\mods\Wawla-1.12.2-2.6.275.jar E:\Downloads\.minecraft\mods\Xaeros_Minimap_20.9.0_Forge_1.12.jar E:\Downloads\.minecraft\mods\xxlsolarpanels-1.2.1.jar
+flush now

@@ -1,0 +1,271 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.72 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 06.08.2020 14:33:24
+---
+run double running protection
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_261, jvm bit x64, 16304 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+ Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12173 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=8b24b6da-4f3a-401e-85a6-948edfe15dce
+[Updater] Request time: 221 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 28 / 192 MB
+Garbage collector completed: 17 / 237 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\ivan_\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\ivan_\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+[JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[AdvertisingStatusObserver]  finished to get add information
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 30 ms.
+[JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+[Browser@982820288] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+Started! (4618 ms.)
+[Loading] SUCCESS
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 57 ms.
+[TLauncher] show tlauncher!!!
+[Double running] clear time label
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 30 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 37 ms.
+[SkinVersionList] Got in 57 ms
+[ExtraVersionList] Got in 92 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 199 ms.
+[OfficialVersionList] Got in 365 ms
+[VersionManager] Versions has been refreshed (414 ms)
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 14 ms.
+run server on  37842
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 95 ms.
+Starting garbage collector: 89 / 256 MB
+Garbage collector completed: 37 / 256 MB
+don't find category skyblock
+Starting garbage collector: 292 / 492 MB
+Garbage collector completed: 128 / 492 MB
+don't find category skyblock
+don't find category skyblock
+don't find category skyblock
+don't find category skyblock
+[OS] Trying to open folder: C:\Users\ivan_\AppData\Roaming\.minecraft\
+[LoginForm] Catched a wait task from this listener, waiting...
+instancefor: Account{displayName=grizzzli74, type=TLAUNCHER, accessToken=(not null), userid=grizzzli74, uuid=6a1da2abd6e011ea8536b42e996a7d7a, username=grizzzli74}
+[TlauncherAuthenticator] Staring to authenticate: Account{displayName=grizzzli74, type=TLAUNCHER, accessToken=(not null), userid=grizzzli74, uuid=6a1da2abd6e011ea8536b42e996a7d7a, username=grizzzli74}
+[TlauncherAuthenticator] hasUsername: grizzzli74
+[TlauncherAuthenticator] hasPassword: false
+[TlauncherAuthenticator] hasAccessToken: true
+[TlauncherAuthenticator] Loggining in with token
+[TlauncherAuthenticator] Log in successful!
+[TlauncherAuthenticator] hasUUID: true
+[TlauncherAuthenticator] hasAccessToken: true
+[TlauncherAuthenticator] hasProfiles: false
+[TlauncherAuthenticator] hasProfile: false
+[TlauncherAuthenticator] hasProperties: true
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.72
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Machines-61.0.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Huds-1.12.2-1.0.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.291.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\VanillaFix-1.0.10-150.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.19.0_Forge_1.12.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Machines-61.0.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Advanced+Solar+Panels-4.3.0.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\appliedenergistics2-rv6-stable-7.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Aroma1997Core-1.12.2-2.0.0.2.b167.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\buildcraft-all-7.99.24.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ElecCore-1.12.2-1.9.453.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Huds-1.12.2-1.0.6.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Hwyla-1.8.26-B41_1.12.2.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.187-ex112.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\InventoryTweaks-1.63.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\ironchest-1.12.2-7.0.72.847.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.15.0.291.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughEnergistics-1.12.2-1.0.8.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\JustEnoughResources-1.12.2-0.9.2.60.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Mekanism-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MekanismGenerators-1.12.2-9.8.3.390.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\MutantBeasts-1.12.2-0.7.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_F5.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Tatw-1.12.2-1.0.1.2.b27.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\VanillaFix-1.0.10-150.jar C:\Users\ivan_\AppData\Roaming\.minecraft\mods\Xaeros_Minimap_20.19.0_Forge_1.12.jar
+[Launcher] Force update: false
+[Launcher] Selected version: Grizline
+[Launcher] Selected account: Account{displayName=grizzzli74, type=TLAUNCHER, accessToken=(not null), userid=grizzzli74, uuid=6a1da2abd6e011ea8536b42e996a7d7a, username=grizzzli74}
+[Version:Grizline] Resolving...
+[Version:Grizline] Inherits from 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 45000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 110 ms.
+[Launcher] Version sync info: VersionSyncInfo{id='Grizline',
+local=CompleteVersion{id='Grizline', time=Tue Sep 10 04:22:54 MSK 2019, release=Mon Sep 18 11:39:46 MSK 2017, type=release, class=net.minecraft.launchwrapper.Launch, minimumVersion=18, assets='1.12', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.LocalVersionList@323e5034, libraries=[Library{name='net.minecraftforge:forge:1.12.2-14.23.5.2847', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraft:launchwrapper:1.12', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-all:5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jline:jline:3.5.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe.akka:akka-actor_2.11:2.3.3', rules=null, natives=null, extract=null, packed='forge'}, Library{name='com.typesafe:config:1.2.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-actors-migration_2.11:1.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-compiler:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-library:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-parser-combinators_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-reflect:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-swing_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-xml_2.11:1.0.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='lzma:lzma:0.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.maven:maven-artifact:3.5.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1ec147d2, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@30609f, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1d376a87, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@5d01479f, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@49ea743a, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=null, isInstalled=true, hasRemote=false, isUpToDate=true}
+[Launcher] Java path: C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\ivan_\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+[AssetsManager] Fast comparing: true
+[Launcher] Delta time to compare assets: 96 ms.
+[TLauncherManager] add required libraries: Grizline
+[VersionManager] Required for version Grizline: [LibraryDownloadable{path='http://files.minecraftforge.net/maven/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar'; repo=EMPTY; destinations=C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@257bb355; handlers=[]; error=null;}, LibraryDownloadable{path='http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar'; repo=EMPTY; destinations=C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@257bb355; handlers=[]; error=null;}, LibraryDownloadable{path='http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar'; repo=EMPTY; destinations=C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@257bb355; handlers=[]; error=null;}, LibraryDownloadable{path='http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar'; repo=EMPTY; destinations=C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar,[]; force=false; fast=false; locked=false; container=org.tlauncher.tlauncher.managers.VersionSyncInfoContainer@257bb355; handlers=[]; error=null;}]
+[VersionManager] Jar for Grizline: Downloadable{path='https://launcher.mojang.com/v1/objects/0f275bc1547d01fa5f56ba34bdc87d981ee12daf/client.jar'; repo=EMPTY; destinations=C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\Grizline.jar,[C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\Grizline.jar.bak]; force=false; fast=false; locked=false; container=null; handlers=[]; error=null;}
+[Modpack]  got container
+[Modpack]  check resources
+[Modpack]  check CompositeResources
+[Downloader2] Files in queue 7
+[Downloader2] Starting download 7 files...
+[D#1] >  http://files.minecraftforge.net/maven/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar 
+[D#2] >  http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar 
+[D#3] >  https://launcher.mojang.com/v1/objects/0f275bc1547d01fa5f56ba34bdc87d981ee12daf/client.jar 
+[D#2] >  http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar 
+[D#3] >  Found additional destinations. Copying... 
+[D#3] >  Copying C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\Grizline.jar.bak... 
+[D#3] >  Success! 
+[D#3] >  Copying completed. 
+[D#3] >  https://res.tlauncher.org/b/mods/323993/2722821/%5B1.12%5DbspkrsCore-universal-7.6.0.1.jar 
+[D#1] >  http://files.minecraftforge.net/maven/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar 
+[D#1] >  https://res.tlauncher.org/b/mods/324007/2722878/%5B1.12%5DTreeCapitator-client-1.43.0.jar 
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe -Djava.net.preferIPv4Stack=true -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx15104M -Djava.library.path=C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\natives -cp C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\Grizline.jar -Dminecraft.applet.TargetDirectory=C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -DLibLoader.modsFolder=C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\mods net.minecraft.launchwrapper.Launch --username grizzzli74 --version Grizline --gameDir C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline --assetsDir C:\Users\ivan_\AppData\Roaming\.minecraft\assets --assetIndex 1.12 --uuid 6a1da2abd6e011ea8536b42e996a7d7a --accessToken null --userType mojang --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --width 925 --height 530 --fullscreen
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\mods\[1.12]bspkrsCore-universal-7.6.0.1.jar C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\mods\[1.12]TreeCapitator-client-1.43.0.jar
+[Launcher] Starting Minecraft Grizline...
+[Launcher] Launching in: C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline
+Starting garbage collector: 237 / 495 MB
+Garbage collector completed: 135 / 495 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[14:35:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:35:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:35:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:35:29] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[14:35:29] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_261, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_261
+[14:35:30] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[14:35:30] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[14:35:30] [main/INFO] [FML]: Searching C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\mods for mods
+[14:35:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:35:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:35:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:35:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:35:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:35:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:35:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[14:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:35:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:35:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:35:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:35:33] [Client thread/INFO] [minecraft/Minecraft]: Setting user: grizzzli74
+[14:35:36] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[14:35:38] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[14:35:38] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_261, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 56542608 bytes (53 MB) / 268435456 bytes (256 MB) up to 15837691904 bytes (15104 MB)
+	JVM Flags: 8 total; -Xmn128M -Xmx15104M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 445.87' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+[14:35:38] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[14:35:38] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:35:38] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:35:38] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[14:35:38] [Client thread/INFO] [FML]: Searching C:\Users\ivan_\AppData\Roaming\.minecraft\versions\Grizline\mods for mods
+[14:35:39] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[14:35:40] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator] at CLIENT
+[14:35:40] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bspkrscore, treecapitator] at SERVER
+[14:35:40] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 194500600 nanos
+[14:35:40] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:TreeCapitator
+[14:35:41] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:35:41] [Client thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[14:35:41] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:35:41] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:35:41] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:35:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:35:41] [Client thread/INFO] [treecapitator]: Looks like a fresh config; default config loaded.
+[14:35:41] [Client thread/INFO] [FML]: Applying holder lookups
+[14:35:41] [Client thread/INFO] [FML]: Holder lookups applied
+[14:35:41] [Client thread/INFO] [FML]: Applying holder lookups
+[14:35:41] [Client thread/INFO] [FML]: Holder lookups applied
+[14:35:41] [Client thread/INFO] [FML]: Applying holder lookups
+[14:35:41] [Client thread/INFO] [FML]: Holder lookups applied
+[14:35:41] [Client thread/INFO] [FML]: Applying holder lookups
+[14:35:41] [Client thread/INFO] [FML]: Holder lookups applied
+[14:35:41] [Client thread/INFO] [FML]: Injecting itemstacks
+[14:35:41] [Client thread/INFO] [FML]: Itemstack injection complete
+[14:35:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2854
+[14:35:48] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+[14:35:49] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+[14:35:49] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:35:49] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+[14:35:49] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+[14:35:52] [Client thread/INFO] [FML]: Max texture size: 16384
+[14:35:56] [Client thread/INFO] [minecraft/TextureMap]: Created: 512x512 textures-atlas
+[14:35:57] [Client thread/INFO] [FML]: Applying holder lookups
+[14:35:57] [Client thread/INFO] [FML]: Holder lookups applied
+[14:35:57] [Client thread/INFO] [bspkrscore]: Initializing ModVersionChecker for mod bspkrscore
+[14:35:57] [Client thread/WARN] [bspkrscore]: Error retrieving remote string value at URL http://bspk.rs/Minecraft/1.12/bspkrsCore.version! Defaulting to check_error
+[14:35:57] [Client thread/INFO] [bspkrscore]: Initializing ModVersionChecker for mod TreeCapitator
+[14:35:58] [Client thread/WARN] [bspkrscore]: Error retrieving remote string value at URL http://bspk.rs/Minecraft/1.12/TreeCapitator.version! Defaulting to check_error
+[14:35:58] [Client thread/INFO] [FML]: Injecting itemstacks
+[14:35:58] [Client thread/INFO] [FML]: Itemstack injection complete
+[14:35:58] [Client thread/INFO] [treecapitator]: Prioritizing User and IMC mod configs...
+[14:35:58] [Client thread/INFO] [treecapitator]: Registering items and trees...
+[14:35:58] [Client thread/INFO] [treecapitator]: Skipping Ore Dictionary processing.
+[14:35:58] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[14:35:58] [Client thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+[14:35:59] [Realms Notification Availability checker #1/INFO] [mojang/RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[14:36:03] [Server thread/INFO] [minecraft/IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[14:36:03] [Server thread/INFO] [minecraft/IntegratedServer]: Generating keypair
+[14:36:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:36:04] [Server thread/INFO] [FML]: Applying holder lookups
+[14:36:04] [Server thread/INFO] [FML]: Holder lookups applied
+[14:36:04] [Server thread/INFO] [FML]: Loading dimension 0 (����� ���) (net.minecraft.server.integrated.IntegratedServer@1ccdf00b)
+[14:36:04] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 488 advancements
+[14:36:05] [Server thread/INFO] [FML]: Loading dimension -1 (����� ���) (net.minecraft.server.integrated.IntegratedServer@1ccdf00b)
+[14:36:05] [Server thread/INFO] [FML]: Loading dimension 1 (����� ���) (net.minecraft.server.integrated.IntegratedServer@1ccdf00b)
+[14:36:05] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for level 0
+[14:36:06] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 9%
+[14:36:07] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 20%
+[14:36:08] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 32%
+[14:36:09] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 43%
+[14:36:10] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 54%
+[14:36:11] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 65%
+[14:36:12] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 77%
+[14:36:13] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 89%
+[14:36:14] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:36:14] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:36:14] [Server thread/INFO] [minecraft/IntegratedServer]: Changing view distance to 12, from 10
+[14:36:15] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[14:36:15] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[14:36:15] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,bspkrscore@7.6.0.1,mcp@9.42,treecapitator@1.43.0
+[14:36:15] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[14:36:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:36:15] [Server thread/INFO] [minecraft/PlayerList]: grizzzli74[local:E:fef66eea] logged in with entity id 2392 at (60.5, 67.0, 256.5)
+[14:36:15] [Server thread/INFO] [minecraft/MinecraftServer]: grizzzli74 ������������� � ����
+[14:36:16] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[14:36:16] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level '����� ���'/overworld
+[14:36:18] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2473ms behind, skipping 49 tick(s)
+[14:36:26] [Client thread/INFO] [minecraft/AdvancementList]: Loaded 2 advancements
+[14:36:53

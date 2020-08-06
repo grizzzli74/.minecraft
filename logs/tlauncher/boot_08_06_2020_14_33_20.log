@@ -1,0 +1,68 @@
+
+-------------------------------------------------------------------
+run double running protection
+[Downloader2] Loaded configuration: normal
+[Bootstrapper] createLauncher
+path C:\Program Files\Java\jre1.8.0_261
+[Bootstrapper] choose jvm:C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+[Bootstrapper] validate files
+[Bootstrapper] end validated files
+[Bootstrapper] Starting launcher...
+> Loading configuration from file: C:\Users\ivan_\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+> [Configuration] Constant values: {}
+> [Loading] INITIALIZING
+> Starting TLauncher 2.72 RELEASE
+> For more information, visit https://tlauncher.org/
+> Startup time: 06.08.2020 14:33:24
+> ---
+> run double running protection
+> [Loading] LOADING_CONFIGURATION
+> Machine info: -------------------------------------------------------
+> Windows 10 10.0, Java 1.8.0_261, jvm bit x64, 16304 MB RAM
+> java path=C:\Program Files\Java\jre1.8.0_261\bin\javaw.exe
+> Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+>  Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, Intel(R) HD Graphics 630, Intel(R) HD Graphics Family, 8280 MB, NVIDIA GeForce GTX 1050 Ti, GeForce GTX 1050 Ti, 12173 MB
+> -------------------------------------------------------
+> Selected locale: ru_RU
+> [Loading] LOADING_CONSOLE
+> [Downloader2] Loaded configuration: good
+> [Updater] Requesting an update...
+> [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+> [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.72&client=8b24b6da-4f3a-401e-85a6-948edfe15dce
+> [Updater] Request time: 221 ms
+> [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+> [Browser] Loading resources...
+> [Browser] Loading background...
+> [Browser] Cleaning up after loading:
+> Starting garbage collector: 28 / 192 MB
+> Garbage collector completed: 17 / 237 MB
+> [Loading] LOADING_MANAGERS
+> [LocalVersionList] Base directory: C:\Users\ivan_\AppData\Roaming\.minecraft
+> [ProfileManager] Refreshing profiles from: C:\Users\ivan_\AppData\Roaming\.minecraft\TlauncherProfiles.json
+> [AdvertisingStatusObserver]  started to get ad information
+> [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+> [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+> [Browser] Running in JavaFX Thread
+> [Browser] Preparing JavaFX...
+> [Browser] Initializing...
+> [AdvertisingStatusObserver]  finished to get add information
+> [Loading] LOADING_WINDOW
+> [REPO][SERVER_LIST_REPO] Success: Reached the repo in 30 ms.
+> [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+> [Browser@982820288] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+> [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+> [Loading] PREPARING_MAINPANE
+> [Browser] add listens into server_choose
+> [Browser] finished listens into server_choose
+> [Downloader2] Loaded configuration: good
+> [Loading] POSTINIT_GUI
+> [Frame] Packing main frame...
+> [Frame] Resizing main pane...
+> Updater is already closed. Showing up...
+> Visibility set.
+> [Loading] REFRESHING_INFO
+> [VersionManager] Refreshing versions remotely...
+> [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+> Started! (4618 ms.)
+> [Loading] SUCCESS
+[Bootstrapper] I can be terminated now: 0

@@ -1,0 +1,9 @@
+#Sun May 10 12:15:27 MSK 2020
+ENABLE_SSAO=false
+MICRO_BLOOM=false
+MOTION_BLUR=false
+PARALLAX_HQ=false
+RAYLEIGH_AMOUNT=2.0
+shadowDistance=80.0
+shadowMapResolution=1024
+TEXTURE_RESOLUTION=16
